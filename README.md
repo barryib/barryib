@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 👋
 -->
-- I'm a cloud consulant and SRE Technical Lead at [Polyconseil](https://polyconseil.fr)
+- I'm a Cloud consulant and SRE Technical Lead at [Polyconseil](https://polyconseil.fr)
 - [Terraform-aws-modules](https://github.com/terraform-aws-modules) team member
 - One of the maintenair of [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
 - Helm and Kubernetes Ninja
