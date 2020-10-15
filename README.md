@@ -1,4 +1,4 @@
-### Hi there 👋
+# Thierno IB. BARRY
 
 <!--
 **barryib/barryib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋
 -->
+- I'm a cloud consulant and SRE Technical Lead at [Polyconseil](https://polyconseil.fr)
+- [Terraform-aws-modules](https://github.com/terraform-aws-modules) team member
+- One of the maintenair of [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
+- Helm and Kubernetes Ninja
+- Ex maintainer of the [Nagios RabbitMQ plugins](https://github.com/nagios-plugins-rabbitmq/nagios-plugins-rabbitmq) (🤔 [I'm actually calling for maintainers](https://github.com/nagios-plugins-rabbitmq/nagios-plugins-rabbitmq/issues/99))
